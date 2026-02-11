@@ -7,5 +7,5 @@ alt: image-alt
 project-date: January 2026
 client: Start Bootstrap
 category: Stats
-description: [link test]({% link https://pubmed.ncbi.nlm.nih.gov/ %})
+description: [Check here for project files]({% link files/ANOVA_Immunohistochemistry.html %})
 ---
