@@ -7,5 +7,5 @@ alt: image-alt
 project-date: January 2026
 client: Start Bootstrap
 category: Stats
-description: ANOVA
+description: [check here for full details](https://pubmed.ncbi.nlm.nih.gov/)
 ---
