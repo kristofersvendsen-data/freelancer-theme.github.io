@@ -7,5 +7,5 @@ alt: image-alt
 project-date: January 2026
 client: Start Bootstrap
 category: Stats
-description: (https://pubmed.ncbi.nlm.nih.gov/)
+description: <https://pubmed.ncbi.nlm.nih.gov/>
 ---
